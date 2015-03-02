@@ -1,0 +1,32 @@
+body {
+  color: red;
+  background-color: pink;
+}
+p {
+  color: black;
+  background-color: #3498db;
+  height: 150px;
+  width: 350px;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
+img {
+  height: 150px;
+  width: auto;
+  border: 6px #f1c40f solid;
+}
+a:hover {
+  color: pink;
+  background-color: black;
+}
+img:hover {
+  border-top: 6px black solid;
+  border-right: 6px black solid;
+  border-left: 6px black solid;
+  border-bottom: 6px black solid;
+}
+p:hover {
+  color: pink;
+  background-color: black; 
+}

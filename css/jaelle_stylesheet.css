@@ -1,0 +1,13 @@
+body{
+  color:#00CCFF;
+  background-color:#006666;
+}
+p {
+  color:#FF00FF;
+}
+a {
+  color:#CCFF00;
+} 
+body:hover {
+  background-color:#0000FF;
+}

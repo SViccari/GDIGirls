@@ -1,0 +1,17 @@
+body {
+  color:#f1c40f;
+  background-color:#e74c3c;
+}
+p {
+  border: 10px #3498db;
+}
+a:hover {
+  background-color:#2ecc71;
+  color: #ecf0f1;
+}
+img:hover {
+  border:10px groove black;
+}
+body:hover {
+  color:#2ecc71;
+}

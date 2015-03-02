@@ -1,0 +1,116 @@
+/*
+COLORS
+------------------
+#727B84 - dark grey
+#F95A61 - pink
+#f9a35a - orange
+#F4F3EE - off-white
+#01a9b4 - turquoise
+#f9f35a - yellow
+*/
+
+* {
+  margin: 0;
+  font-family: Georgia, Serif;
+}
+body{
+  background-color: #FCFBF6;
+  font-family: Georgia, Serif;
+}
+body a{
+  text-decoration: none;
+  color: black;
+}
+.menu{
+  width: 250px;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  position: fixed;
+  height: 100%;
+}
+.container{
+  padding: 35px 5px 20px 25px;
+}
+#content {
+  height: 100%;
+  margin: 0 0 0 320px;
+  top: 0;
+}
+.sp{
+  height: 5px;
+  background-color: #F4F3EE;
+  margin: 20px 0 20px 0;
+}
+.menu .container p{
+  margin-top: 1em;
+}
+.menu-links p{
+  margin: 10px 0 5px 0;
+}
+.menu-links p:hover{
+  background-color: #01a9b4;
+  color: white;
+}
+#portfolio{
+  position: relative;
+  width: 650px;
+  margin: 16px 0 0 0;
+  padding: 0 30px 0 0;
+}
+.module-1-3{
+  float: left;
+  height: 8em;
+  width: 13em;
+}
+.project p:hover{
+  font-size: 2em;
+  text-align: center;
+}
+.module-1-2{
+  float: left;
+  height: 8em;
+  width: 19.5em;
+  margin-bottom: 3em;
+}
+.content{
+  margin: 0 auto;
+  padding-top: 3em;
+  text-align: center;
+}
+.thumb-dark-grey{
+  background-color: #727B84;
+}
+.thumb-dark-grey p{
+  color: white;
+}
+.thumb-pink{
+ background-color: #F95A61; 
+}
+.thumb-pink p{
+  color: white;
+}
+.thumb-orange{
+  background-color: #f9a35a;
+}
+.thumb-orange p{
+  color: white;
+}
+.thumb-off-white {
+  background-color: #F4F3EE;
+}
+.thumb-off-white p{
+  color: #727B84;
+}
+.thumb-turquoise{
+  background-color: #01a9b4;
+}
+.thumb-turquoise p{
+  color: white;
+}
+.thumb-bright-yellow{
+  background-color: #f9f35a;
+}
+.thumb-bright-yellow p{
+  color: #727B84;
+}

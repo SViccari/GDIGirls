@@ -1,0 +1,17 @@
+body{
+  color:blue;
+  background-color:purple;
+}
+p{
+  color:green;
+  text-align:center;
+  font-family:cursive;
+}
+img{
+  height:300px;
+  width:500px;
+  border:18px #1abc9c dashed;  
+}
+img:hover{
+  border:18px green dotted;
+}

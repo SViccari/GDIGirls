@@ -1,0 +1,28 @@
+body {
+  color:turquoise;
+  background-color:#c0392b;
+}
+p{
+  background-color:#f1c40f;
+  color:#16a085;
+  height:auto;
+  width:230px;
+  border:15px #9b59b6 dashed;
+  text-align:center;
+  font-family:sans-serif;
+}
+img {
+  height:500px;
+  width:450px;
+  /*border:25px red dotted;*/
+  border-top: 25px purple dotted;
+  border-right:25px#2ecc71 dotted ;
+}
+a:hover{
+  color:blue;
+  background-color:purple;
+}
+img:hover{
+  border-top: 50px blue dotted;
+  border-right:50px green dashed;
+}    

@@ -1,0 +1,17 @@
+body {
+  color: purple;
+  background-color: hotpink;
+}
+p{
+  color: blue;
+}
+a:hover{
+  color: yellow
+}
+img {
+  width: 600px;
+  border: 10px purple dashed;
+}
+img:hover {
+  border: 10px blue dashed;
+}

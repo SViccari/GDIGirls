@@ -1,0 +1,22 @@
+body{
+  color:#f1c40f;
+  background-color:#1abc9c;
+  font-size:40;
+  font-family:monospace;
+  font-family:cursive;
+}
+p{
+  color:magenta;
+  text-align: center;
+}
+ol{
+  color:#8e44ad;
+}
+img{
+  border: 18 yellow solid;
+  width: 900px;
+}
+a:hover{
+  color:yellow;
+  background-color:#c0392b;
+}

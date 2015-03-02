@@ -1,0 +1,22 @@
+body{
+  color:black;
+  background-color:#2ecc71;
+}
+p{ 
+  border:5px #c0392b solid;
+  color:red;
+  height:35px; 
+  width: 350px;
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+img{
+  height:400px;
+  width:350px; 
+  border:20px red solid;
+}
+h1{
+  font-size: 35px;
+  font-family: monospace;
+}
